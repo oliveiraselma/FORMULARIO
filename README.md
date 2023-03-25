@@ -4,4 +4,4 @@
 <p> <p/>
 <p> Utilizei como tecnologia HTML , CSS, e algumas funcionalidades em Javascript.🚀<p/>
 <br>
-<img src='img/ '>
+<img src='assets/img/tela.png '>
