@@ -30,6 +30,7 @@ body{
   padding: 24px;
   text-align: center;
   color: #FFF;
+  font-size: 26px;
 }
 
 .form{
@@ -40,7 +41,9 @@ body{
   margin-bottom: 8px;
   padding-bottom: 18px;
   position: relative;
+  font-size: 20px;
 }
+
 
 .form-content label{
   display: inline-block;
@@ -69,7 +72,7 @@ body{
   border-radius: 14px;
   padding: 10px;
   border: 0;
-  font-size: 16px;
+  font-size: 26px;
   cursor: pointer;
   margin-top: 14px;
 }
